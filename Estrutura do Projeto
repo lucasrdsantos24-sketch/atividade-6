@@ -1,0 +1,31 @@
+# Estrutura do Projeto
+
+/src
+ ├── models
+ │    ├── Produto.js
+ │    ├── Pedido.js
+ │    └── ItemPedido.js
+ │
+ ├── controllers
+ │    └── PedidoController.js
+ │
+ ├── services
+ │    ├── PedidoService.js
+ │    └── DescontoService.js
+ │
+ ├── repositories
+ │    └── PedidoRepository.js
+ │
+ ├── views
+ │    └── PedidoView.js
+ │
+ ├── factories
+ │    └── PedidoFactory.js
+ │
+ ├── strategies
+ │    └── DescontoVip.js
+ │
+ ├── observers
+ │    └── PedidoObserver.js
+ │
+ └── app.js
