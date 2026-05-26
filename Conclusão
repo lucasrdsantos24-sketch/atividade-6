@@ -1,0 +1,3 @@
+A refatoração para MVC melhorou significativamente a organização do sistema, separando responsabilidades e reduzindo o acoplamento. 
+Services e repositories ajudaram 
+na organização da lógica de negócio e persistência dos dados, tornando o sistema mais organizado e fácil de manter.
