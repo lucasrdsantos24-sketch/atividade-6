@@ -1,0 +1,6 @@
+- Separação de responsabilidades;
+- Remoção de código duplicado;
+- Melhor organização estrutural;
+- Redução do acoplamento;
+- Reutilização de código;
+- Desacoplamento entre frontend e backend.
