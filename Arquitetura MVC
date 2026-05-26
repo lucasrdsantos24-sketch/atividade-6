@@ -1,0 +1,11 @@
+# Arquitetura MVC
+
+- Models → entidades e dados;
+- Views → interface e interação visual;
+- Controllers → controle do fluxo;
+- Services → regras de negócio;
+- Repositories → persistência e acesso aos dados.
+
+Fluxo utilizado:
+
+View -> Controller -> Service -> Repository -> Model
