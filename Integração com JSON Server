@@ -1,0 +1,6 @@
+O sistema continuou utilizando JSON Server para:
+
+- persistência dos pedidos;
+- simulação de backend;
+- armazenamento de dados;
+- requisições HTTP.
