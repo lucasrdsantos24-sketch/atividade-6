@@ -1,0 +1,16 @@
+#Utilizados
+
+## Factory
+Responsável pela criação de pedidos e produtos.
+
+## Singleton
+Responsável pelo controle global da aplicação.
+
+## Repository
+Responsável pela persistência e acesso aos dados.
+
+## Strategy
+Responsável pelas estratégias de desconto.
+
+## Observer
+Responsável pela atualização automática da interface.
