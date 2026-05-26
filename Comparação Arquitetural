@@ -1,0 +1,9 @@
+| Critério | Sistema Original | MVC Refatorado |
+|---|---|---|
+| Organização | Baixa | Alta |
+| Coesão | Média | Alta |
+| Acoplamento | Alto | Baixo |
+| Reutilização | Baixa | Alta |
+| Clareza estrutural | Confusa | Organizada |
+| Escalabilidade | Limitada | Melhor |
+| Facilidade de manutenção | Difícil | Mais simples |
