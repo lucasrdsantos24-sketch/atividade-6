@@ -1,0 +1,7 @@
+# Problemas do MVC Tradicional
+
+- Controllers muito grandes;
+- Dificuldade de manutenção;
+- Aumento do acoplamento;
+- Escalabilidade limitada;
+- Complexidade estrutural.
